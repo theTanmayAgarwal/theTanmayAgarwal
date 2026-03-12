@@ -19,21 +19,12 @@
 
 ## 🧠 About Me
 
-```python
-class TanmayAgarwal:
-    def __init__(self):
-        self.name        = "Tanmay Agarwal"
-        self.roles       = ["Trader 📈", "Entrepreneur 💼", "Programmer 💻"]
-        self.currently   = "Learning TensorFlow & Advanced Deep Learning 🤖"
-        self.passion     = "Building intelligent systems & scalable products"
-        self.contact     = "itstanmayagarwal@gmail.com"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing.")
-
-me = TanmayAgarwal()
-me.say_hi()
-```
+- 👋 Hi, I'm **Tanmay Agarwal** — a passionate **Trader 📈**, **Entrepreneur 💼**, and **Programmer 💻**
+- 🤖 Currently diving deep into **TensorFlow** & **Advanced Deep Learning**
+- 💡 Passionate about building **intelligent systems** & **scalable products**
+- 🌍 Based in **India**
+- 📬 Reach me at **itstanmayagarwal@gmail.com**
+- 💬 Ask me about **trading strategies, web development, or AI/ML**
 
 ---
 
