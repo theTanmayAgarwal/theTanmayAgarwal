@@ -99,7 +99,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-itstheTanmayAgarwal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itstheTanmayAgarwal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-itstanmayagarwal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itstanmayagarwal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theTanmayAgarwal)
 
 <br/>
