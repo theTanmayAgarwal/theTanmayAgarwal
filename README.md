@@ -23,7 +23,7 @@
 - 🤖 Currently diving deep into **TensorFlow** & **Advanced Deep Learning**
 - 💡 Passionate about building **intelligent systems** & **scalable products**
 - 🌍 Based in **India**
-- 📬 Reach me at **itstheTanmayAgarwal@gmail.com**
+- 📬 Reach me at **itstanmayagarwal@gmail.com**
 - 💬 Ask me about **trading strategies, web development, or AI/ML**
 
 ---
